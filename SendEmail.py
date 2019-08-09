@@ -1,11 +1,12 @@
 #this code is by : https://gist.github.com/nickoala/569a9d191d088d82a5ef5c03c0690a02
+#use ur email for this and premit less secure apps if u are using gmail services
 import smtplib
 from email.mime.text import MIMEText
 
 smtp_ssl_host = 'smtp.gmail.com'  # smtp.mail.yahoo.com
 smtp_ssl_port = 465
-username = 'bridgetorpy@gmail.com'
-password = 'khorma12'
+username = 'UR EMAIL'
+password = 'UR PASSword'
 sender = 'bridgetorpy@gmail.com'
 targets = ['bridges@torproject.org']
 
