@@ -1,5 +1,6 @@
 #this code is by : https://gist.github.com/nickoala/569a9d191d088d82a5ef5c03c0690a02
 #use ur email for this and premit less secure apps if u are using gmail services
+#less secure apss how to : https://support.google.com/accounts/answer/6010255?hl=en
 import smtplib
 from email.mime.text import MIMEText
 
