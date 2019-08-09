@@ -3,8 +3,8 @@ import imapclient
 from imapclient import IMAPClient
 ​
 HOST = 'imap.gmail.com'
-USERNAME = 'bridgetorpy@gmail.com'
-PASSWORD = 'khorma12'
+USERNAME = 'UR EMAIL'
+PASSWORD = 'UR PASSWORD'
 ​
 with IMAPClient(HOST) as server:
     server.login(USERNAME, PASSWORD)
